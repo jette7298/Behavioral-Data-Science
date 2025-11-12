@@ -1,6 +1,7 @@
 This repository includes projects I worked on during my master's degree in Behavioral Data Science at University of Amsterdam.
 
 __Human Faces Recogniton__
+
 I build an algorithm that is able to recognize emotions from photographs from facial expressions. 
 The data set contains photos of faces that express one of the following emotions:
 - Anger
@@ -15,4 +16,5 @@ which both measure aspects of movement and orientation. The data for this compet
 with human participants carrying out various daily activities in set order.
 
 __Offensive Tweet Detection__
+
 I build a classifier that automatically recognize tweets that contain offensive language, are derogatory or hateful.
