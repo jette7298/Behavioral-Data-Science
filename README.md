@@ -24,6 +24,7 @@ __Bird Call Recognition__
 I developed a deep learning model that recognizes bird species based on audio recordings of their calls.
 
 __Internship in UX Research__
+
 I investigated how generative AI can support questionnaire research.The project consisted of two main parts:
 
 _Automated Questionnaire Generation_
