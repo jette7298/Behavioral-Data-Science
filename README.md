@@ -28,10 +28,12 @@ __Internship in UX Research__
 I investigated how generative AI can support questionnaire research.The project consisted of two main parts:
 
 _Automated Questionnaire Generation_
+
 I developed and evaluated a retrieval-augmented generation system for creating questionnaire items. The system used an item bank containing established questionnaire items and compared three approaches:
 - A zero-shot language model
 - A retrieval-augmented language model
 - A questionnaire created by a human researcher
 
 _Synthetic Survey Respondents_
+
 I evaluated whether large language model-based digital twins could reproduce human survey responses.
