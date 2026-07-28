@@ -2,7 +2,7 @@
 
 This folder contains examples for the code I used to complete this project. It is structured in the 3 phases I worked in:
 automated question generation (AQG), digital-twin response generation, and
-digital-twin response analysis. The files document the core methods used in the work; they do not reproduce the full 
+digital-twin response analysis. The files document the core methods used in the work but they do not reproduce the full 
 pipeline due to compliance and confidentiality issues.
 
 There is no data uploaded, as this is confidential. Referenced column names are paths are generic.
