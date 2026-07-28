@@ -7,7 +7,7 @@ pipeline due to compliance and confidentiality issues.
 
 There is no data uploaded, as this is confidential. Referenced column names are paths are generic.
 
-## Strcture
+## Structure
 
 | Report topic | File | Main function(s) |
 |---|---|---|
