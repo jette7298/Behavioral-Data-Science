@@ -1,0 +1,15 @@
+pandas
+numpy
+scipy
+statsmodels
+scikit-posthocs
+textstat
+sentence-transformers
+faiss-cpu
+ollama
+streamlit
+transformers
+torch
+thefuzz
+openai
+
